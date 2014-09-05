@@ -1,4 +1,4 @@
-readthedoc-epigrams-on-programming
+readthedocs-epigrams-on-programming
 ===================================
 
 Epigrams on Programmings at readthedoc
