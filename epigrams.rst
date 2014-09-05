@@ -83,7 +83,8 @@ Epigrams 警句
 
 原文::
 
-   If a program manipulates a large amount of data, it does so in a small number of ways.
+   If a program manipulates a large amount of data, it does so in a small 
+   number of ways.
 
 翻译::
 
@@ -121,7 +122,8 @@ Epigrams 警句
 
 原文::
 
-   A programming language is low level when its programs require attention to the irrelevant.
+   A programming language is low level when its programs require attention
+    to the irrelevant.
 
 翻译::
 
@@ -132,7 +134,8 @@ Epigrams 警句
 
 原文::
 
-   It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
+   It is better to have 100 functions operate on one data structure than 10
+    functions on 10 data structures.
 
 翻译::
 
@@ -143,7 +146,9 @@ Epigrams 警句
 
 原文::
 
-   Get into a rut early: Do the same processes the same way. Accumulate idioms. Standardize. The only difference (!) between Shakespeare and you was the size of his idiom list - not the size of his vocabulary.
+   Get into a rut early: Do the same processes the same way. Accumulate 
+   idioms. Standardize. The only difference (!) between Shakespeare and you 
+   was the size of his idiom list - not the size of his vocabulary.
 
 翻译::
 
@@ -185,7 +190,8 @@ Epigrams 警句
 
 原文::
 
-   If two people write exactly the same program, each should be put in micro-code and then they certainly won't be the same.
+   If two people write exactly the same program, each should be put in 
+   micro-code and then they certainly won't be the same.
 
 翻译::
 
@@ -211,7 +217,8 @@ Epigrams 警句
 
 	这句话原型应该是::
 
- 		But this long run is a misleading guide to current affairs. In the long run we are all dead - John Maynard Keynes
+ 		But this long run is a misleading guide to current affairs. 
+ 		In the long run we are all dead - John Maynard Keynes
 
  		这种长远的眼光对当下事物是一种误导。长远来看，我们都要要死的 - 凯恩斯（经济学家，不要说没听过这个名字。。。）
 
@@ -231,7 +238,8 @@ Epigrams 警句
 
 原文::
 
-   Every program has (at least) two purposes: the one for which it was written and another for which it wasn’t.
+   Every program has (at least) two purposes: the one for which it was 
+   written and another for which it wasn’t.
 
 翻译::
 
@@ -242,7 +250,8 @@ Epigrams 警句
 
 原文::
 
-   If a listener nods his head when you're explaining your program, wake him up.
+   If a listener nods his head when you're explaining your program, wake 
+   him up.
 
 翻译::
 
@@ -272,7 +281,8 @@ Epigrams 警句
 
 原文::
 
-   A language that doesn't affect the way you think about programming, is not worth knowing.
+   A language that doesn't affect the way you think about programming, is
+    not worth knowing.
 
 翻译::
 
@@ -283,7 +293,8 @@ Epigrams 警句
 
 原文::
 
-   Wherever there is modularity there is the potential for misunderstanding: Hiding information implies a need to check communication.
+   Wherever there is modularity there is the potential for misunderstanding: 
+   Hiding information implies a need to check communication.
 
 翻译::
 
@@ -335,7 +346,8 @@ Epigrams 警句
 
 原文::
 
-   Perhaps if we wrote programs from childhood on, as adults we'd be able to read them.
+   Perhaps if we wrote programs from childhood on, as adults we'd be able to 
+   read them.
 
 翻译::
 
@@ -346,7 +358,9 @@ Epigrams 警句
 
 原文::
 
-   One can only display complex information in the mind. Like seeing, movement or flow or alteration of view is more important than the static picture, no matter how lovely.
+   One can only display complex information in the mind. Like seeing, 
+   movement or flow or alteration of view is more important than the static 
+   picture, no matter how lovely.
 
 翻译::
 
@@ -357,7 +371,8 @@ Epigrams 警句
 
 原文::
 
-   There will always be things we wish to say in our programs that in all known languages can only be said poorly.
+   There will always be things we wish to say in our programs that in all 
+   known languages can only be said poorly.
 
 翻译::
 
@@ -383,18 +398,22 @@ Epigrams 警句
 
 原文::
 
-   Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long?
+   Around computers it is difficult to find the correct unit of time to 
+   measure progress. Some cathedrals took a century to complete. Can you 
+   imagine the grandeur and scope of a program that would take as long?
 
 翻译::
 
-   很难找到合适的时间单位来衡量计算机领域内的进展。有些教堂建了一个世纪。你能想象写了一个世纪的程序的雄伟壮丽吗？
+   很难找到合适的时间单位来衡量计算机领域内的进展。有些教堂建了一个世纪。
+   你能想象写了一个世纪的程序的雄伟壮丽吗？
 
 29 
 ~~~~~
 
 原文::
 
-   For systems, the analogue of a face-lift is to add to the control graph an edge that creates a cycle, not just an additional node.
+   For systems, the analogue of a face-lift is to add to the control graph 
+   an edge that creates a cycle, not just an additional node.
 
 翻译::
 
@@ -410,7 +429,8 @@ Epigrams 警句
 
 原文::
 
-   In programming, everything we do is a special case of something more general - and often we know it too quickly.
+   In programming, everything we do is a special case of something more 
+   general - and often we know it too quickly.
 
 翻译::
 
@@ -432,7 +452,8 @@ Epigrams 警句
 
 原文::
 
-   Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.
+   Programmers are not to be measured by their ingenuity and their logic but 
+   by the completeness of their case analysis.
 
 翻译::
 
@@ -443,7 +464,8 @@ Epigrams 警句
 
 原文::
 
-   The 11th commandment was "Thou Shalt Compute" or "Thou Shalt Not Compute" - I forget which.
+   The 11th commandment was "Thou Shalt Compute" or "Thou Shalt Not Compute" 
+   - I forget which.
 
 翻译::
 
@@ -458,7 +480,9 @@ Epigrams 警句
 
 原文::
 
-   The string is a stark data structure and everywhere it is passed there is much duplication of process. It is a perfect vehicle for hiding information.
+   The string is a stark data structure and everywhere it is passed there is 
+   much duplication of process. It is a perfect vehicle for hiding 
+   information.
 
 翻译::
 
@@ -473,7 +497,8 @@ Epigrams 警句
 
 原文::
 
-   Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers.
+   Everyone can be taught to sculpt: Michelangelo would have had to be 
+   taught how not to. So it is with the great programmers.
 
 翻译::
 
@@ -484,7 +509,9 @@ Epigrams 警句
 
 原文::
 
-   The use of a program to prove the 4-color theorem will not change mathematics - it merely demonstrates that the theorem, a challenge for a century, is probably not important to mathematics.
+   The use of a program to prove the 4-color theorem will not change 
+   mathematics - it merely demonstrates that the theorem, a challenge for a
+    century, is probably not important to mathematics.
 
 翻译::
 
@@ -495,7 +522,9 @@ Epigrams 警句
 
 原文::
 
-   The most important computer is the one that rages in our skulls and ever seeks that satisfactory external emulator. The standardization of real computers would be a disaster - and so it probably won't happen.
+   The most important computer is the one that rages in our skulls and ever 
+   seeks that satisfactory external emulator. The standardization of real 
+   computers would be a disaster - and so it probably won't happen.
 
 翻译::
 
@@ -522,7 +551,9 @@ Epigrams 警句
 
 原文::
 
-   Re graphics: A picture is worth 10K words - but only those to describe the picture. Hardly any sets of 10K words can be adequately described with pictures.
+   Re graphics: A picture is worth 10K words - but only those to describe 
+   the picture. Hardly any sets of 10K words can be adequately described 
+   with pictures.
 
 翻译::
 
@@ -559,7 +590,8 @@ Epigrams 警句
 
 原文::
 
-   You can measure a programmer's perspective by noting his attitude on the continuing vitality of FORTRAN.
+   You can measure a programmer's perspective by noting his attitude on the 
+   continuing vitality of FORTRAN.
 
 翻译::
 
@@ -581,7 +613,8 @@ Epigrams 警句
 
 原文::
 
-   Sometimes I think the only universal in the computing field is the fetch-execute-cycle.
+   Sometimes I think the only universal in the computing field is the 
+   fetch-execute-cycle.
 
 翻译::
 
@@ -592,7 +625,8 @@ Epigrams 警句
 
 原文::
 
-   The goal of computation is the emulation of our synthetic abilities, not the understanding of our analytic ones.
+   The goal of computation is the emulation of our synthetic abilities, not 
+   the understanding of our analytic ones.
 
 翻译::
 
@@ -640,7 +674,8 @@ Epigrams 警句
 
 原文::
 
-   The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.
+   The best book on programming for the layman is "Alice in Wonderland"; but 
+   that's because it's the best book on anything for the layman.
 
 翻译::
 
@@ -651,7 +686,9 @@ Epigrams 警句
 
 原文::
 
-   Giving up on assembly language was the apple in our Garden of Eden: Languages whose use squanders machine cycles are sinful. The LISP machine now permits LISP programmers to abandon bra and fig-leaf.
+   Giving up on assembly language was the apple in our Garden of Eden: 
+   Languages whose use squanders machine cycles are sinful. The LISP machine 
+   now permits LISP programmers to abandon bra and fig-leaf.
 
 翻译::
 
@@ -666,7 +703,8 @@ Epigrams 警句
 
 原文::
 
-   When we understand knowledge-based systems, it will be as before - except our finger-tips will have been singed.
+   When we understand knowledge-based systems, it will be as before - except 
+   our finger-tips will have been singed.
 
 翻译::
 
@@ -677,7 +715,8 @@ Epigrams 警句
 
 原文::
 
-   Bringing computers into the home won't change either one, but may revitalize the corner saloon.
+   Bringing computers into the home won't change either one, but may 
+   revitalize the corner saloon.
 
 翻译::
 
@@ -688,7 +727,8 @@ Epigrams 警句
 
 原文::
 
-   Systems have sub-systems and sub-systems have sub-systems and so on ad infinitum - which is why we're always starting over.
+   Systems have sub-systems and sub-systems have sub-systems and so on ad 
+   infinitum - which is why we're always starting over.
 
 翻译::
 
@@ -699,7 +739,8 @@ Epigrams 警句
 
 原文::
 
-   So many good ideas are never heard from again once they embark in a voyage on the semantic gulf.
+   So many good ideas are never heard from again once they embark in a 
+   voyage on the semantic gulf.
 
 翻译::
 
@@ -710,7 +751,8 @@ Epigrams 警句
 
 原文::
 
-   Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.
+   Beware of the Turing tar-pit in which everything is possible but nothing 
+   of interest is easy.
 
 翻译::
 
@@ -737,7 +779,8 @@ Epigrams 警句
 
 原文::
 
-   Software is under a constant tension. Being symbolic it is arbitrarily perfectible; but also it is arbitrarily changeable.
+   Software is under a constant tension. Being symbolic it is arbitrarily 
+   perfectible; but also it is arbitrarily changeable.
 
 翻译::
 
@@ -748,7 +791,8 @@ Epigrams 警句
 
 原文::
 
-   It is easier to change the specification to fit the program than vice versa.
+   It is easier to change the specification to fit the program than vice 
+   versa.
 
 翻译::
 
@@ -759,7 +803,8 @@ Epigrams 警句
 
 原文::
 
-   Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+   Fools ignore complexity. Pragmatists suffer it. Some can avoid it. 
+   Geniuses remove it.
 
 翻译::
 
@@ -770,7 +815,8 @@ Epigrams 警句
 
 原文::
 
-   In English every word can be verbed. Would that it were so in our programming languages.
+   In English every word can be verbed. Would that it were so in our 
+   programming languages.
 
 翻译::
 
@@ -831,7 +877,8 @@ Epigrams 警句
 
 原文::
 
-   Often it is means that justify ends: Goals advance technique and technique survives even when goal structures crumble.
+   Often it is means that justify ends: Goals advance technique and 
+   technique survives even when goal structures crumble.
 
 翻译::
 
@@ -842,7 +889,9 @@ Epigrams 警句
 
 原文::
 
-   Make no mistake about it: Computers process numbers - not symbols. We measure our understanding (and control) by the extent to which we can arithmetize an activity.
+   Make no mistake about it: Computers process numbers - not symbols. We 
+   measure our understanding (and control) by the extent to which we can 
+   arithmetize an activity.
 
 翻译::
 
@@ -853,7 +902,8 @@ Epigrams 警句
 
 原文::
 
-   Making something variable is easy. Controlling duration of constancy is the trick.
+   Making something variable is easy. Controlling duration of constancy is
+    the trick.
 
 翻译::
 
@@ -864,7 +914,8 @@ Epigrams 警句
 
 原文::
 
-   Think of all the psychic energy expended in seeking a fundamental distinction between "algorithm" and "program”.
+   Think of all the psychic energy expended in seeking a fundamental 
+   distinction between "algorithm" and "program”.
 
 翻译::
 
@@ -875,7 +926,10 @@ Epigrams 警句
 
 原文::
 
-   If we believe in data structures, we must believe in independent (hence simultaneous) processing. For why else would we collect items within a structure? Why do we tolerate languages that give us the one without the other?
+   If we believe in data structures, we must believe in independent (hence 
+   simultaneous) processing. For why else would we collect items within a 
+   structure? Why do we tolerate languages that give us the one without the 
+   other?
 
 翻译::
 
@@ -886,7 +940,8 @@ Epigrams 警句
 
 原文::
 
-   In a 5 year period we get one superb programming language. Only we can't control when the 5 year period will begin.
+   In a 5 year period we get one superb programming language. Only we can't 
+   control when the 5 year period will begin.
 
 翻译::
 
@@ -897,7 +952,10 @@ Epigrams 警句
 
 原文::
 
-   Over the centuries the Indians developed sign language for communicating phenomena of interest. Programmers from different tribes (FORTRAN, LISP, ALGOL, SNOBOL, etc.) could use one that doesn't require them to carry a blackboard on their ponies.
+   Over the centuries the Indians developed sign language for communicating 
+   phenomena of interest. Programmers from different tribes (FORTRAN, LISP, 
+   ALGOL, SNOBOL, etc.) could use one that doesn't require them to carry a 
+   blackboard on their ponies.
 
 翻译::
 
@@ -908,7 +966,8 @@ Epigrams 警句
 
 原文::
 
-   Documentation is like term insurance: It satisfies because almost no one who subscribes to it depends on its benefits.
+   Documentation is like term insurance: It satisfies because almost no one 
+   who subscribes to it depends on its benefits.
 
 翻译::
 
@@ -937,7 +996,8 @@ Epigrams 警句
 
 原文::
 
-   It is not a language's weaknesses but its strengths that control the gradient of its change: Alas, a language never escapes its embryonic sac.
+   It is not a language's weaknesses but its strengths that control the 
+   gradient of its change: Alas, a language never escapes its embryonic sac.
 
 翻译::
 
@@ -948,7 +1008,8 @@ Epigrams 警句
 
 原文::
 
-   It is possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as soap bubble?
+   It is possible that software is not like anything else, that it is meant 
+   to be discarded: that the whole point is to always see it as soap bubble?
 
 翻译::
 
@@ -959,7 +1020,8 @@ Epigrams 警句
 
 原文::
 
-   Because of its vitality, the computing field is always in desperate need of new cliches: Banality soothes our nerves.
+   Because of its vitality, the computing field is always in desperate need 
+   of new cliches: Banality soothes our nerves.
 
 翻译::
 
@@ -981,7 +1043,9 @@ Epigrams 警句
 
 原文::
 
-   The cybernetic exchange between man, computer and algorithm is like a game of musical chairs: The frantic search for balance always leaves one of the three standing ill at ease.
+   The cybernetic exchange between man, computer and algorithm is like a 
+   game of musical chairs: The frantic search for balance always leaves one 
+   of the three standing ill at ease.
 
 翻译::
 
@@ -1003,7 +1067,8 @@ Epigrams 警句
 
 原文::
 
-   A year spent in artificial intelligence is enough to make one believe in God.
+   A year spent in artificial intelligence is enough to make one believe in 
+   God.
 
 翻译::
 
@@ -1014,7 +1079,8 @@ Epigrams 警句
 
 原文::
 
-   Prolonged contact with the computer turns mathematicians into clerks and vice versa.
+   Prolonged contact with the computer turns mathematicians into clerks and 
+   vice versa.
 
 翻译::
 
@@ -1025,7 +1091,8 @@ Epigrams 警句
 
 原文::
 
-   In computing, turning the obvious into the useful is a living definition of the word "frustration”.
+   In computing, turning the obvious into the useful is a living definition 
+   of the word "frustration”.
 
 翻译::
 
@@ -1036,7 +1103,8 @@ Epigrams 警句
 
 原文::
 
-   We are on the verge: Today our program proved Fermat's next-to-last theorem!
+   We are on the verge: Today our program proved Fermat's next-to-last 
+   theorem!
 
 翻译::
 
@@ -1053,7 +1121,9 @@ Epigrams 警句
 
 原文::
 
-   What is the difference between a Turing machine and the modern computer? It's the same as that between Hillary's ascent of Everest and the establishment of a Hilton hotel on its peak.
+   What is the difference between a Turing machine and the modern computer? 
+   It's the same as that between Hillary's ascent of Everest and the 
+   establishment of a Hilton hotel on its peak.
 
 翻译::
 
@@ -1070,7 +1140,8 @@ Epigrams 警句
 
 原文::
 
-   Motto for a research laboratory: What we work on today, others will first think of tomorrow.
+   Motto for a research laboratory: What we work on today, others will first 
+   think of tomorrow.
 
 翻译::
 
@@ -1092,7 +1163,8 @@ Epigrams 警句
 
 原文::
 
-   We kid ourselves if we think that the ratio of procedure to data in an active data-base system can be made arbitrarily small or even kept small.
+   We kid ourselves if we think that the ratio of procedure to data in an 
+   active data-base system can be made arbitrarily small or even kept small.
 
 翻译::
 
@@ -1104,7 +1176,8 @@ Epigrams 警句
 
 原文::
 
-   We have the mini and the micro computer. In what semantic niche would the pico computer fall?
+   We have the mini and the micro computer. In what semantic niche would the 
+   pico computer fall?
 
 翻译::
 
@@ -1115,7 +1188,8 @@ Epigrams 警句
 
 原文::
 
-   It is not the computer's fault that Maxwell's equations are not adequate to design the electric motor.
+   It is not the computer's fault that Maxwell's equations are not adequate 
+   to design the electric motor.
 
 翻译::
 
@@ -1126,7 +1200,8 @@ Epigrams 警句
 
 原文::
 
-   One does not learn computing by using a hand calculator, but one can forget arithmetic.
+   One does not learn computing by using a hand calculator, but one can 
+   forget arithmetic.
 
 翻译::
 
@@ -1152,7 +1227,8 @@ Epigrams 警句
 
 原文::
 
-   The computer reminds one of Lon Chaney - it is the machine of a thousand faces.
+   The computer reminds one of Lon Chaney - it is the machine of a thousand 
+   faces.
 
 翻译::
 
@@ -1173,7 +1249,8 @@ Epigrams 警句
 
 原文::
 
-   The computer is the ultimate polluter. Its feces are indistinguishable from the food it produces.
+   The computer is the ultimate polluter. Its feces are indistinguishable 
+   from the food it produces.
 
 翻译::
 
@@ -1184,7 +1261,8 @@ Epigrams 警句
 
 原文::
 
-   When someone says "I want a programming language in which I need only say what I wish done," give him a lollipop.
+   When someone says "I want a programming language in which I need only say 
+   what I wish done," give him a lollipop.
 
 翻译::
 
@@ -1217,7 +1295,8 @@ Epigrams 警句
 
 原文::
 
-   Computers don't introduce order anywhere as much as they expose opportunities.
+   Computers don't introduce order anywhere as much as they expose 
+   opportunities.
 
 翻译::
 
@@ -1228,7 +1307,8 @@ Epigrams 警句
 
 原文::
 
-   When a professor insists computer science is X but not Y, have compassion for his graduate students.
+   When a professor insists computer science is X but not Y, have compassion 
+   for his graduate students.
 
 翻译::
 
@@ -1261,7 +1341,8 @@ Epigrams 警句
 
 原文::
 
-   We will never run out of things to program as long as there is a single program around.
+   We will never run out of things to program as long as there is a single 
+   program around.
 
 翻译::
 
@@ -1272,7 +1353,8 @@ Epigrams 警句
 
 原文::
 
-   Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.
+   Dealing with failure is easy: Work hard to improve. Success is also easy 
+   to handle: You've solved the wrong problem. Work hard to improve.
 
 翻译::
 
@@ -1327,7 +1409,8 @@ Epigrams 警句
 
 原文::
 
-   It's difficult to extract sense from strings, but they're the only communication coin we can count on.
+   It's difficult to extract sense from strings, but they're the only 
+   communication coin we can count on.
 
 翻译::
 
@@ -1382,7 +1465,8 @@ Epigrams 警句
 
 原文::
 
-   Why did the Roman Empire collapse? What is the Latin for office automation?
+   Why did the Roman Empire collapse? What is the Latin for office 
+   automation?
 
 翻译::
 
@@ -1404,7 +1488,8 @@ Epigrams 警句
 
 原文::
 
-   The only constructive theory connecting neuroscience and psychology will arise from the study of software.
+   The only constructive theory connecting neuroscience and psychology will 
+   arise from the study of software.
 
 翻译::
 
@@ -1426,7 +1511,8 @@ Epigrams 警句
 
 原文::
 
-   Most people find the concept of programming obvious, but the doing impossible.
+   Most people find the concept of programming obvious, but the doing 
+   impossible.
 
 翻译::
 
@@ -1437,7 +1523,8 @@ Epigrams 警句
 
 原文::
 
-   You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.
+   You think you know when you learn, are more sure when you can write, even 
+   more when you can teach, but certain when you can program.
 
 翻译::
 
@@ -1448,7 +1535,9 @@ Epigrams 警句
 
 原文::
 
-   It goes against the grain of modern education to teach children to program. What fun is there in making plans, acquiring discipline in organizing thoughts, devoting attention to detail and learning to be self-critical?
+   It goes against the grain of modern education to teach children to program
+   . What fun is there in making plans, acquiring discipline in organizing 
+   thoughts, devoting attention to detail and learning to be self-critical?
 
 翻译::
 
@@ -1459,7 +1548,8 @@ Epigrams 警句
 
 原文::
 
-   If you can imagine a society in which the computer-robot is the only menial, you can imagine anything.
+   If you can imagine a society in which the computer-robot is the only 
+   menial, you can imagine anything.
 
 翻译::
 
@@ -1481,7 +1571,8 @@ Epigrams 警句
 
 原文::
 
-   Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+   Adapting old programs to fit new machines usually means adapting new 
+   machines to behave like old ones.
 
 翻译::
 
@@ -1492,7 +1583,8 @@ Epigrams 警句
 
 原文::
 
-   In seeking the unattainable, simplicity only gets in the way. If there are epigrams, there must be meta-epigrams.
+   In seeking the unattainable, simplicity only gets in the way. If there 
+   are epigrams, there must be meta-epigrams.
 
 翻译::
 
@@ -1558,7 +1650,8 @@ Epigrams 警句
 
 原文::
 
-   Epigrams scorn detail and make a point: They are a superb high-level documentation.
+   Epigrams scorn detail and make a point: They are a superb high-level 
+   documentation.
 
 翻译::
 
