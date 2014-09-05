@@ -1,14 +1,20 @@
-Epigrams On Programming
-=======================
+Epigrams on Programming 编程警句
+===============================
 
 译者说
 -------
 
-`Alen Jay Perlis <http://en.wikipedia.org/wiki/Alan_Perlis>`_ ，程序员中的上古巨神。 ALGOL开发组成员，第一届图灵奖获得者。1982年，他写了Epigrams on Programming，发表于 `ACM SIGPLAN Notices, Volume 17 Issue 9, September 1982 <http://portalparts.acm.org/950000/947955/fm/frontmatter.pdf?ip=198.55.120.199&CFID=552884859&CFTOKEN=85666119>`_ ，以格言的形式表达了他对编程的理解。
+正如第72句所言*An adequate bootstrap is a contradiction in terms.*，需要解释的笑话多多少少有些悖论的影子。解释笑话总是件吃力不讨好的事，一来容易隐射说笑话的人说得不高明，二来容易隐射听笑话的人反应不够快。
 
-这篇文章也能以 `Epigrams in Programming <http://www.cs.yale.edu/homes/perlis-alan/quotes.html>`_ 搜到。Epigrams on Programming比Epigrams in Programming多了10条meta-epigram。
+可这吃力不讨好的事，我偏要来做一发。一来这笑话是外国笑话，难免中外笑点不同；二来这笑话是三十年前的笑话，笑点不一定是这个时代的笑点；三来，最大的幸福，莫过于有人告诉我说“你这句话解释错了，原意应该是如此如此”。
 
-正文小标题是译者（就是我）加的。
+*Epigrams on Programming* 作者是 `Alen Jay Perlis <http://en.wikipedia.org/wiki/Alan_Perlis>`_ ，美国计算机科学家，程序员中的上古巨神，因在编程语言中的早期探索和获得首届图灵奖闻名。
+
+*Epigrams on Programming* 发表于 `ACM SIGPLAN Notices, Volume 17 Issue 9, September 1982 <http://portalparts.acm.org/950000/947955/fm/frontmatter.pdf?ip=198.55.120.199&CFID=552884859&CFTOKEN=85666119>`_
+
+耶鲁大学网站上刊登的本文以 `Epigrams in Programming <http://www.cs.yale.edu/homes/perlis-alan/quotes.html>`_ 为题。Epigrams on Programming比Epigrams in Programming多了10条meta-epigram。
+
+正文小标题为译者所加。
 
 正文
 ====
@@ -34,11 +40,11 @@ Epigrams 警句
 
 2. Functions delay binding: data structures induce binding. Moral: Structure data late in the programming process.
 
-函数推迟绑定；数据结构预示绑定。寓意：(编程中)推迟数据结构化的时间。
+函数推迟绑定；数据结构导致绑定。寓意：(编程中)推迟数据结构化的时间。
 
 3. Syntactic sugar causes cancer of the semi-colons.
 
-语法糖引起分号癌症。
+语法糖导致分号癌。
 
 (Python说，我没有！)
 
@@ -115,6 +121,10 @@ Rococo，洛可可，起源于18世纪法国的艺术风格。华而不实，过
 
 没有循环和结构变量的程序不值得写。
 
+The unexamined life is not worth living for a human being. - `Socrates <http://en.wikiquote.org/wiki/Socrates>`_
+
+未经审视的生活是不值度过 - 苏格拉底
+
 19. A language that doesn't affect the way you think about programming, is not worth knowing.
 
 没有影响你思考编程的语言不值得学。
@@ -145,11 +155,12 @@ Rococo，洛可可，起源于18世纪法国的艺术风格。华而不实，过
 
 25. One can only display complex information in the mind. Like seeing, movement or flow or alteration of view is more important than the static picture, no matter how lovely.
 
-思维只能呈现复杂的信息。就像视觉，无论静止的画面多么美丽，变化更加重要。
+脑海中只能呈现复杂的信息。就像视觉，无论静止的画面多么美丽，变化更加重要。
 
 26. There will always be things we wish to say in our programs that in all known languages can only be said poorly.
 
-程序中总有些部分，所有已知的语言都不能很好的表达。
+程序中总有些话，所有已知的语言都不能很好的表达。
+
 (何不把programs改成love letter，千言万语道不尽我对你的爱云云)
 
 27. Once you understand how to write a program get someone else to write it.
@@ -158,7 +169,7 @@ Rococo，洛可可，起源于18世纪法国的艺术风格。华而不实，过
 
 28. Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long?
 
-很难找到合适的测量程序的时间单位。有些教堂建了一个世纪。你能想象写了一个世纪的程序的雄伟壮丽吗？
+很难找到合适的时间单位来衡量计算机领域内的进展。有些教堂建了一个世纪。你能想象写了一个世纪的程序的雄伟壮丽吗？
 
 29. For systems, the analogue of a face-lift is to add to the control graph an edge that creates a cycle, not just an additional node.
 
@@ -258,7 +269,7 @@ The analytic–synthetic distinction (also called the analytic–synthetic dicho
 
 威尔·罗杰斯可能会说“世上无自由变量。”
 
-找了下威尔·罗杰斯的名言，没找到这句话模拟的样本。
+找了下威尔·罗杰斯的名言，没找到这句话模仿的样本。
 
 48. The best book on programming for the layman is "Alice in Wonderland"; but that's because it's the best book on anything for the layman.
 
@@ -343,15 +354,15 @@ LISP程序员不用任何代价，知道万物的价值。
 
 65. Make no mistake about it: Computers process numbers - not symbols. We measure our understanding (and control) by the extent to which we can arithmetize an activity.
 
-别弄错了：计算机处理数字，而不是符号。我们通过算术化的程度评价和控制理解力。
+别弄错了：计算机处理的是数字，而不是符号。我们通过对一项活动算术化的程度评价理解力（和控制力）。
 
 66. Making something variable is easy. Controlling duration of constancy is the trick.
 
-生成变量容易，控制常量的范围难。
+生成变量容易，控制不变的时限难。
 
 67. Think of all the psychic energy expended in seeking a fundamental distinction between "algorithm" and "program”.
 
-想一想在寻找“算法”和“程序”的本质区别上花了多少心力。
+想一想在寻找“算法”和“程序”的本质区别上花了多少心思。
 
 68. If we believe in data structures, we must believe in independent (hence simultaneous) processing. For why else would we collect items within a structure? Why do we tolerate languages that give us the one without the other?
 
@@ -453,7 +464,7 @@ bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很�
 
 89. One does not learn computing by using a hand calculator, but one can forget arithmetic.
 
-用手都计算机无法学会计算，却可以忘记算术。
+用手动计算器无法学会计算，却可以忘记算术。
 
 91-100
 ~~~~~~~~~
@@ -596,7 +607,7 @@ Lon Chaney, Jr.，小朗·钱尼，美国演员，前者的儿子。
 121-130
 ~~~~~~~~~
 
-121. In seeking the unattainable, simplicity only gets in the way.If there are epigrams, there must be meta-epigrams.
+121. In seeking the unattainable, simplicity only gets in the way. If there are epigrams, there must be meta-epigrams.
 
 简单妨碍我们追求得不到的东西。如果有警句，一定有元警局。
 
