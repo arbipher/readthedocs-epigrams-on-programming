@@ -1,1 +1,1 @@
-Search.setIndex({objects:{},titles:["Welcome to epigrams-on-programming&#8217;s documentation!"],terms:{index:0,page:0,content:0,search:0,modul:0},filenames:["index"],envversion:43,objtypes:{},titleterms:{document:0,program:0,indic:0,welcom:0,tabl:0,epigram:0},objnames:{}})
+Search.setIndex({objects:{},filenames:["index"],objnames:{},objtypes:{},titleterms:{welcom:0,document:0,epigram:0,program:0,tabl:0,indic:0},terms:{index:0,modul:0,content:0,page:0,search:0,foo:0,bar:0},envversion:43,titles:["Welcome to epigrams-on-programming&#8217;s documentation!"]})
