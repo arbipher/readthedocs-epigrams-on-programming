@@ -1,8 +1,9 @@
+=================================
 Epigrams on Programming 编程警句
-===============================
+=================================
 
 译者说
--------
+======
 
 正如第72句所言*An adequate bootstrap is a contradiction in terms.*，需要解释的笑话多多少少有些悖论的影子。解释笑话总是件吃力不讨好的事，一来容易隐射说笑话的人说得不高明，二来容易隐射听笑话的人反应不够快。
 
@@ -14,7 +15,7 @@ Epigrams on Programming 编程警句
 
 耶鲁大学网站上刊登的本文以 `Epigrams in Programming <http://www.cs.yale.edu/homes/perlis-alan/quotes.html>`_ 为题。Epigrams on Programming比Epigrams in Programming多了10条meta-epigram。
 
-正文小标题为译者所加。
+正文小标题为译者所加的。
 
 正文
 ====
@@ -30,12 +31,24 @@ The epigrams that follow attempt to capture some of the dimensions of this traff
 Epigrams 警句
 --------------
 
-1-10
-~~~~~~~~~
+1. 原文
+~~~~~~~
 
-1. One man's constant is another man's variable.
+::
 
-吾之常量，彼之变量。
+   One man's constant is another man's variable.
+
+::
+
+   吾之常量，彼之变量。
+
+""""""""""""""""""
+
+new paras?
+
+""""""""""""""""""
+
+new paras?
 
 
 2. Functions delay binding: data structures induce binding. Moral: Structure data late in the programming process.
