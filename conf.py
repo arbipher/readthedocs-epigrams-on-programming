@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'epigrams-on-programming'
-copyright = '2014, Shiwei Weng'
+copyright = '2014, Shiwei Weng, 翁士伟, wengshiwei@gmail.com'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
