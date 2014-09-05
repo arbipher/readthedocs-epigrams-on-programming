@@ -63,9 +63,9 @@ Epigrams 警句
 
    语法糖导致分号癌。
 
-"""""""""""""""""""""
+吐槽:
 
-(Python说，我没有！)
+   Python说，我没有分号癌！
 
 4
 ~~~~~
@@ -100,8 +100,10 @@ Epigrams 警句
 
    对称性有助于减少复杂度（协程包含例程）。对称性无处不在。
 
-sub-routines就是我们目前见到的函数，call-and-return
-coroutine使用yield。
+.. glossary::
+
+	sub-routines
+		和通常所见的function、method、procedure是同义词，使用return返回。**co-routines** 使用yield。
 
 7. 
 ~~~~~
@@ -147,7 +149,14 @@ coroutine使用yield。
 
    早立规矩：同样方式做的同样处理。积累固定用法(idiom)。标准化。你和莎士比亚的唯一区别是成语(idiom)量——不是词汇量。
 
-这句话有意思，英语的idiom有两个意思，可惜不能都翻译成“成语”。
+.. glossary::
+
+	sub-routines
+		和通常所见的function、method、procedure是同义词，使用return返回。**co-routines** 使用yield。
+
+吐槽:
+
+	idiom有两个意思，可惜不能都翻译成“成语”。
 
 11 
 ~~~~~
@@ -193,10 +202,18 @@ coroutine使用yield。
 
    程序终将成为洛可可，然后是碎石。
 
-这句话原型应该是:
-But this long run is a misleading guide to current affairs. In the long run we are all dead - John Maynard Keynes(凯恩斯，经济学家，不要说没听过这个名字。。。)
-Rococo，洛可可，起源于18世纪法国的艺术风格。华而不实，过度装饰（还色色的……）。
+.. glossary::
 
+	Rococo
+		洛可可，起源于18世纪法国的艺术风格。华而不实，过度装饰。
+
+吐槽:
+
+	这句话原型应该是::
+
+ 		But this long run is a misleading guide to current affairs. In the long run we are all dead - John Maynard Keynes
+
+ 		这种长远的眼光对当下事物是一种误导。长远来看，我们都要要死的 - 凯恩斯（经济学家，不要说没听过这个名字。。。）
 
 15 
 ~~~~~
@@ -242,9 +259,13 @@ Rococo，洛可可，起源于18世纪法国的艺术风格。华而不实，过
 
    没有循环和结构变量的程序不值得写。
 
-The unexamined life is not worth living for a human being. - `Socrates <http://en.wikiquote.org/wiki/Socrates>`_
+吐槽:
 
-未经审视的生活是不值度过 - 苏格拉底
+	这句话原型应该是::
+
+		The unexamined life is not worth living for a human being - Socrates
+
+		未经审视的生活是不值度过 - 苏格拉底
 
 19 
 ~~~~~
@@ -268,7 +289,13 @@ The unexamined life is not worth living for a human being. - `Socrates <http://e
 
    模块是误解之源；信息隐藏预示沟通的必要。
 
-前半句仿照“有志者事竟成(Wherever there is a will there is a way)”。
+吐槽:
+
+	这句话原型应该是::
+
+		Wherever there is a will there is a way.
+
+		有志者事竟成。
 
 21 
 ~~~~~
@@ -336,7 +363,9 @@ The unexamined life is not worth living for a human being. - `Socrates <http://e
 
    程序中总有些话，所有已知的语言都不能很好的表达。
 
-(何不把programs改成love letter，千言万语道不尽我对你的爱云云)
+吐槽:
+
+	何不把programs改成love letter，千言万语道不尽我对你的爱云云。
 
 27 
 ~~~~~
@@ -371,7 +400,10 @@ The unexamined life is not worth living for a human being. - `Socrates <http://e
 
    系统的整容是在控制图上加一条边，而不是新的节点。
 
-Control graph指的是Control flow graph(http://en.wikipedia.org/wiki/Control_flow_graph), 表示程序运行逻辑的。node是顺序执行的基本单元，edge表示跳转。
+.. glossary::
+
+	Control graph
+		`Control flow graph <http://en.wikipedia.org/wiki/Control_flow_graph>`_, 描述程序运行逻辑。其node是顺序执行的基本单元，edge表示跳转。
 
 30 
 ~~~~~
@@ -417,7 +449,9 @@ Control graph指的是Control flow graph(http://en.wikipedia.org/wiki/Control_fl
 
    第11条戒律是“你应计算”或“你不应计算”-我忘了。
 
-The 11th commandment是续摩西十诫(Ten Commandments)的。Thou是古英语you，shalt是古英语第二人称should。
+吐槽:
+
+	The 11th commandment说法来自摩西十诫(Ten Commandments)的。Thou是古英语you，shalt是古英语第二人称should。
 
 34 
 ~~~~~
@@ -430,7 +464,9 @@ The 11th commandment是续摩西十诫(Ten Commandments)的。Thou是古英语yo
 
    字符串是个朴实的数据结构，传递字符串是总有大量的复制。字符串是信息隐藏的完美工具。
 
-彼时的string一定是pass-by-value的
+吐槽:
+
+	彼时的string一定是pass-by-value的
 
 35 
 ~~~~~
@@ -476,7 +512,10 @@ The 11th commandment是续摩西十诫(Ten Commandments)的。Thou是古英语yo
 
    结构化编程支持混乱排除定律（排乱律？）。
 
-The law of the excluded muddle恶搞排中律(Law of excluded middle)。排中律指，对于任何命题P，P或非P一定为真。
+.. glossary::
+
+	Law of excluded middle
+		排中律，The law of the excluded muddle模仿的。排中律指对于任何命题P，P或非P一定为真。
 
 39 
 ~~~~~
@@ -500,7 +539,9 @@ The law of the excluded muddle恶搞排中律(Law of excluded middle)。排中�
 
    有两种写出完全正确的程序的方法，其中的第三种有效。
 
-（“王声老师在文学院四大才子排行第九”）
+吐槽:
+	
+	王声老师在文学院四大才子排行第九 - 苗阜
 
 41 
 ~~~~~
@@ -557,11 +598,16 @@ The law of the excluded muddle恶搞排中律(Law of excluded middle)。排中�
 
    计算的目标是对综合能力的模拟，而不是对分析能力的理解。
 
-Analytic–synthetic distinction(http://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction, http://plato.stanford.edu/entries/analytic-synthetic/)
-The analytic–synthetic distinction (also called the analytic–synthetic dichotomy) is a conceptual distinction, used primarily in philosophy to distinguish propositions (in particular, statements that are affirmative subject–predicate judgments) into two types: analytic propositions and synthetic propositions. Analytic propositions are true by virtue of their meaning, while synthetic propositions are true by how their meaning relates to the world. However, philosophers have used the terms in very different ways. Furthermore, philosophers have debated whether there is a legitimate distinction.
 
-分析命题靠自身为真。(e.g. 人皆会死)
-综合命题靠与世界的关系为真。（e.g. Python是最受欢迎的语言）
+.. glossary::
+
+	`Analytic–synthetic distinction <http://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction, http://plato.stanford.edu/entries/analytic-synthetic/>`_
+		The analytic–synthetic distinction (also called the analytic–synthetic dichotomy) is a conceptual distinction, used primarily in philosophy to distinguish propositions (in particular, statements that are affirmative subject–predicate judgments) into two types: analytic propositions and synthetic propositions. Analytic propositions are true by virtue of their meaning, while synthetic propositions are true by how their meaning relates to the world. 
+
+		分析-综合二分是一种概念区分，主要在哲学上用以将命题（更具体的，是肯定的主谓判断陈述）分为两类：分析命题和综合命题。
+		
+		分析命题靠其自身的意义为真。(e.g. 人皆会死)
+		综合命题靠其自身的意义与世界的关系为真。（e.g. Python是最受欢迎的语言）
 
 46 
 ~~~~~
@@ -585,7 +631,9 @@ The analytic–synthetic distinction (also called the analytic–synthetic dicho
 
    威尔·罗杰斯可能会说“世上无自由变量。”
 
-找了下威尔·罗杰斯的名言，没找到这句话模仿的样本。
+吐槽:
+	
+	找了下威尔·罗杰斯的名言，没找到这句话模仿的样本。
 
 48 
 ~~~~~
@@ -609,7 +657,9 @@ The analytic–synthetic distinction (also called the analytic–synthetic dicho
 
    放弃汇编语言是我们伊甸园里的禁果。狼狈机器周期的语言有罪。LISP机器允许LISP程序员扯下遮羞布。
 
-这句话改编伊甸园的故事——偷吃禁果，获得羞耻心，用无花果叶(fig-leaf)遮住生殖器。作者的态度应该支持放弃汇编语言，嘲讽LISP程序员。
+吐槽:
+
+	这句话改编伊甸园的故事——偷吃禁果，获得羞耻心，用无花果叶(fig-leaf)遮住生殖器。
 
 50 
 ~~~~~
@@ -666,7 +716,10 @@ The analytic–synthetic distinction (also called the analytic–synthetic dicho
 
    留心图灵焦油坑——能力无损，乐趣毫无
 
-Turing tarpit(http://en.wikipedia.org/wiki/Turing_tarpit)，用来描述那些计算能力与常规语言等价，而使用起来十分困难的语言。比如著名的brainfuck
+.. glossary::
+
+	`Turing tarpit <http://en.wikipedia.org/wiki/Turing_tarpit>`_
+		图灵焦油坑。用来描述那些计算能力与常规语言等价，而使用起来十分困难的语言。比如著名的 `brainfuck <http://en.wikipedia.org/wiki/Brainfuck>`_
 
 55 
 ~~~~~
@@ -734,8 +787,11 @@ Turing tarpit(http://en.wikipedia.org/wiki/Turing_tarpit)，用来描述那些�
 
    达纳·斯科特是格(lattice)圣徒教会。
 
-恶搞的耶稣基督后期圣徒教会（The Church of Jesus Christ of Latter-day Saints）
-达纳·斯科特(Dana Scott)，美国科学院，1976年图灵奖得主，曾提出非决定自动机。
+吐槽:
+
+	恶搞的耶稣基督后期圣徒教会（The Church of Jesus Christ of Latter-day Saints）
+
+	达纳·斯科特(Dana Scott)，美国科学家，1976年图灵奖得主，提出非决定自动机。
 
 61 
 ~~~~~
@@ -869,8 +925,12 @@ Turing tarpit(http://en.wikipedia.org/wiki/Turing_tarpit)，用来描述那些�
 
    充分的引导明显是悖论。
 
-bootstrap: to set up or achieve using minimal resources
-bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很少的资源发展起来。所以和adequate是矛盾的。
+.. glossary::
+
+	bootstrap
+		to set up or achieve using minimal resources
+		
+		bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很少的资源发展起来。所以和adequate是矛盾的。
 
 73 
 ~~~~~
@@ -982,7 +1042,11 @@ bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很�
 
    我们的程序证明费马倒数第二定律的日子即将到来。
 
-费马大定理，也叫费马最终定理(Fermat's Last Theorem)，当整数n大于2时，x^n+y^n=z^n无整数解。
+.. glossary::
+
+	Fermat's Last Theorem
+
+		费马大定理，也叫费马最终定理。当整数n大于2时，x^n+y^n=z^n无整数解。
 
 83 
 ~~~~~
@@ -995,7 +1059,11 @@ bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很�
 
    图灵机和当代计算机的区别是什么？这类似于艾德蒙·希拉里攀登珠穆朗玛峰和在峰顶上造希尔顿酒店。
 
-艾德蒙·希拉里(Hillary)，可证明的记录中最早成功攀登珠穆朗玛峰峰顶的人之一。
+.. glossary::
+
+	Hillary
+
+		艾德蒙·希拉里，可证明的记录中最早成功攀登珠穆朗玛峰峰顶的人之一。
 
 84 
 ~~~~~
@@ -1075,7 +1143,9 @@ bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很�
 
    计算让树开花。
 
-（我猜这句话也可以翻译成：计算让母猪上树。）
+吐槽:
+
+	我猜这句话也可以翻译成：计算让母猪上树。
 
 91 
 ~~~~~
@@ -1088,9 +1158,15 @@ bootstrap这个词不知道该怎么翻译，它指的是依靠自己、用很�
 
    计算机让我回想起某个朗·钱尼——它是千面的机器。
 
-Lon Chaney (Sr.)，朗·钱尼，美国无声电影演员。
+.. glossary::
 
-Lon Chaney, Jr.，小朗·钱尼，美国演员，前者的儿子。
+	Lon Chaney (Sr.)，
+
+		朗·钱尼，美国无声电影演员。
+
+	Lon Chaney, Jr.
+
+		小朗·钱尼，美国演员，前者的儿子。
 
 92 
 ~~~~~
