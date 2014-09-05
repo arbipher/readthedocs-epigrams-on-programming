@@ -17,6 +17,10 @@ Epigrams on Programming 编程警句
 
 正文小标题为译者所加的。
 
+举烛公子
+wengshiwei@gmail.com
+20140905
+
 正文
 ====
 
