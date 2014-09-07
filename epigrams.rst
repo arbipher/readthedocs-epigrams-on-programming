@@ -668,9 +668,11 @@ Epigrams 警句
    威尔·罗杰斯可能会说“世上无自由变量。”
 
 吐槽:
-	
-	找了下威尔·罗杰斯的名言，没找到这句话模仿的样本。
-	“In the early days of the Indian Territory, there were no such things as birth certificates. You being there was certificate enough.
+
+   这句话原型应该是::
+
+      In the early days of the Indian Territory, there were no such things as birth 
+      certificates. You being there was certificate enough. - Will Rogers
 
 48 
 ~~~~~
