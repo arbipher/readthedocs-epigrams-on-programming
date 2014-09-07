@@ -17,8 +17,10 @@ Epigrams on Programming 编程警句
 
 正文小标题为译者所加的。
 
-举烛公子
-wengshiwei@gmail.com
+感谢 `marrowleaves <https://github.com/marrowleaves>`_ 的校正。
+
+举烛公子 `arbipher <https://github.com/arbipher>`_
+
 20140905
 
 正文
