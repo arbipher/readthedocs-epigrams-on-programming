@@ -276,7 +276,7 @@ Epigrams 警句
 
 		The unexamined life is not worth living for a human being - Socrates
 
-		未经审视的生活是不值度过 - 苏格拉底
+		未经审视的生活不值得度过 - 苏格拉底
 
 19 
 ~~~~~
