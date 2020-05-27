@@ -19,9 +19,11 @@ Epigrams on Programming 编程警句
 
 感谢 `marrowleaves <https://github.com/marrowleaves>`_ 的校正。
 
-举烛公子 `arbipher <https://github.com/arbipher>`_
+刨沙艺术家 `arbipher <https://github.com/arbipher>`_
 
-20140905
+20140905 发布
+
+20200526 修订
 
 正文
 ====
@@ -94,7 +96,7 @@ Epigrams 警句
 
 翻译::
 
-   如果一个程序用于处理大量数据，它就没几种选择了。
+   一个程序只有少量方法来处理大量数据。
 
 6. 
 ~~~~~
@@ -763,7 +765,7 @@ Epigrams 警句
 
 翻译::
 
-   留心图灵焦油坑——能力无损，乐趣毫无
+   留心图灵(完备)泥潭——全能而难用
 
 .. glossary::
 
@@ -914,7 +916,7 @@ Epigrams 警句
 
 翻译::
 
-   生成变量容易，控制不变的时限难。
+   定义变量容易，而控制常量有多常困难。
 
 67 
 ~~~~~
@@ -989,7 +991,7 @@ Epigrams 警句
 
 翻译::
 
-   充分的引导明显是悖论。
+   充分的自我引导是悖论。
 
 .. glossary::
 
